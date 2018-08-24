@@ -1,0 +1,1064 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2014-05-13 09:40+0200\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Config/settings.php:19
+msgid "Staff"
+msgstr ""
+
+#: Config/settings.php:20
+msgid "Admin"
+msgstr ""
+
+#: Config/settings.php:28
+msgid "Inactive"
+msgstr ""
+
+#: Config/settings.php:29
+#: View/BlogCategories/admin_add.ctp:25
+#: View/Elements/search_product.ctp:42
+#: View/Menus/admin_add.ctp:25
+#: View/Pages/admin_add.ctp:51
+#: View/Posts/admin_add.ctp:40
+#: View/ProductCategories/admin_add.ctp:26
+#: View/Products/admin_add.ctp:107
+#: View/Supports/admin_add.ctp:44
+#: View/Supports/admin_index.ctp:4
+msgid "Active"
+msgstr ""
+
+#: Config/settings.php:49
+msgid "Thanh toán đơn hàng từ Coscre.vn"
+msgstr ""
+
+#: Config/settings.php:50
+msgid "Coscre.vn"
+msgstr ""
+
+#: Config/settings.php:78
+msgid "About"
+msgstr ""
+
+#: Config/settings.php:79
+msgid "Contact"
+msgstr ""
+
+#: Config/settings.php:84
+#: View/Menus/admin_add.ctp:69
+msgid "Product Category"
+msgstr ""
+
+#: Config/settings.php:85
+#: View/Menus/admin_add.ctp:64
+msgid "Blog Category"
+msgstr ""
+
+#: Config/settings.php:86
+#: View/Menus/admin_add.ctp:59
+msgid "Page"
+msgstr ""
+
+#: Config/settings.php:91
+msgid "Skype"
+msgstr ""
+
+#: Config/settings.php:92
+msgid "Yahoo"
+msgstr ""
+
+#: Config/settings.php:93
+#: View/Company/admin_index.ctp:34
+#: View/Orders/admin_view.ctp:15
+#: View/Supports/admin_add.ctp:37
+msgid "Phone"
+msgstr ""
+
+#: Config/settings.php:113
+msgid "Green"
+msgstr ""
+
+#: Config/settings.php:114
+msgid "White"
+msgstr ""
+
+#: Config/settings.php:115
+msgid "Blue"
+msgstr ""
+
+#: Config/settings.php:116
+msgid "Black"
+msgstr ""
+
+#: Config/settings.php:117
+msgid "Brown"
+msgstr ""
+
+#: Config/settings.php:118
+msgid "Grey"
+msgstr ""
+
+#: Config/settings.php:119
+msgid "Pink"
+msgstr ""
+
+#: Config/settings.php:120
+msgid "Yellow"
+msgstr ""
+
+#: Config/settings.php:121
+msgid "Red"
+msgstr ""
+
+#: Controller/AppController.php:136
+msgid "Delete successful"
+msgstr ""
+
+#: Controller/AppController.php:156
+#: Controller/BannersController.php:32
+#: Controller/ImagesController.php:26
+#: Controller/UsersController.php:264;294
+#: Controller/_ImagesController.php:44
+msgid "Save successful"
+msgstr ""
+
+#: Controller/AppController.php:200
+msgid "Clear cache successful!"
+msgstr ""
+
+#: Controller/CompanyController.php:16
+#: Controller/SettingsController.php:24
+msgid "Update successful!"
+msgstr ""
+
+#: Controller/FrontendController.php:291
+msgid "Không tìm thấy bài viết"
+msgstr ""
+
+#: Controller/FrontendController.php:382
+msgid "Contact coscre.vn"
+msgstr ""
+
+#: Controller/FrontendController.php:383
+msgid "Cảm ơn bạn đã gửi liên hệ cho chúng tôi"
+msgstr ""
+
+#: Controller/FrontendController.php:406
+msgid "Giỏ hàng của bạn"
+msgstr ""
+
+#: Controller/FrontendController.php:432
+msgid "Bạn chưa có sản phẩm nào để thanh toán"
+msgstr ""
+
+#: Controller/FrontendController.php:443
+msgid "Đơn đặt hàng: coscre.vn"
+msgstr ""
+
+#: Controller/FrontendController.php:444
+msgid "Đã gửi đơn hàng thành công"
+msgstr ""
+
+#: Controller/ImagesController.php:20
+msgid "Not isset product"
+msgstr ""
+
+#: Controller/UsersController.php:57;202
+msgid "Login successful"
+msgstr ""
+
+#: Controller/UsersController.php:60
+msgid "Username or password is incorrect"
+msgstr ""
+
+#: Controller/UsersController.php:93
+msgid "Email not found!"
+msgstr ""
+
+#: Controller/UsersController.php:100
+msgid "Reset Password"
+msgstr ""
+
+#: Controller/UsersController.php:104
+msgid "Please check email to get new password and login here!"
+msgstr ""
+
+#: Controller/UsersController.php:128
+msgid "Token not found!"
+msgstr ""
+
+#: Controller/UsersController.php:143
+msgid "Change password successful!"
+msgstr ""
+
+#: Controller/UsersController.php:163
+msgid "Register successful!"
+msgstr ""
+
+#: Controller/UsersController.php:255;308
+msgid "Permission die"
+msgstr ""
+
+#: Controller/_ImagesController.php:31
+msgid "Not isset order"
+msgstr ""
+
+#: View/Banners/admin_add.ctp:2
+#: View/Banners/admin_index.ctp:2
+msgid "Banners Manager"
+msgstr ""
+
+#: View/Banners/admin_add.ctp:3
+msgid "Add banners"
+msgstr ""
+
+#: View/Banners/admin_add.ctp:10
+#: View/Images/admin_add.ctp:23
+#: View/Products/admin_index.ctp:7;24
+msgid "Add images"
+msgstr ""
+
+#: View/Banners/admin_add.ctp:17
+#: View/Banners/admin_index.ctp:36
+#: View/BlogCategories/admin_index.ctp:18
+#: View/Contacts/admin_index.ctp:26
+#: View/Images/admin_add.ctp:31
+#: View/Images/admin_index.ctp:11
+#: View/Menus/admin_index.ctp:19
+#: View/Orders/admin_index.ctp:30
+#: View/Pages/admin_index.ctp:20
+#: View/Posts/admin_index.ctp:20
+#: View/ProductCategories/admin_index.ctp:27
+#: View/Products/admin_index.ctp:25
+#: View/Supports/admin_index.ctp:20
+#: View/Users/admin_index.ctp:20
+msgid "Delete"
+msgstr ""
+
+#: View/Banners/admin_add.ctp:21
+#: View/Images/admin_add.ctp:35
+msgid "Add an image"
+msgstr ""
+
+#: View/Banners/admin_add.ctp:31
+#: View/Images/admin_add.ctp:45
+msgid "Add"
+msgstr ""
+
+#: View/Banners/admin_index.ctp:6
+#: View/Posts/admin_index.ctp:4
+#: View/ProductCategories/admin_index.ctp:6
+#: View/Users/admin_index.ctp:5
+msgid "Number"
+msgstr ""
+
+#: View/Banners/admin_index.ctp:7
+#: View/Posts/admin_add.ctp:47
+#: View/ProductCategories/admin_add.ctp:42
+#: View/ProductCategories/admin_index.ctp:9
+#: View/Products/admin_add.ctp:114
+msgid "Image"
+msgstr ""
+
+#: View/Banners/admin_index.ctp:8
+#: View/BlogCategories/admin_add.ctp:20
+#: View/Posts/admin_add.ctp:33
+#: View/ProductCategories/admin_add.ctp:21
+#: View/Products/admin_add.ctp:32
+msgid "Url"
+msgstr ""
+
+#: View/Banners/admin_index.ctp:24
+msgid "Cập nhật url thành công!"
+msgstr ""
+
+#: View/Banners/admin_index.ctp:32
+msgid "Nhập link cho banner"
+msgstr ""
+
+#: View/Banners/admin_index.ctp:32
+#: View/BlogCategories/admin_add.ctp:61
+#: View/Company/admin_index.ctp:91
+#: View/Menus/admin_add.ctp:77
+#: View/Pages/admin_add.ctp:84
+#: View/Posts/admin_add.ctp:86
+#: View/ProductCategories/admin_add.ctp:78
+#: View/Products/admin_add.ctp:153
+#: View/Settings/admin_index.ctp:55
+#: View/Supports/admin_add.ctp:55
+#: View/Users/admin_add.ctp:60
+#: View/Users/admin_change_password.ctp:42
+#: View/Users/admin_profile.ctp:39
+#: View/Users/change_password_token.ctp:15
+#: View/Users/register.ctp:17
+msgid "Save"
+msgstr ""
+
+#: View/BlogCategories/admin_add.ctp:2
+#: View/BlogCategories/admin_index.ctp:2
+msgid "Blog categories"
+msgstr ""
+
+#: View/BlogCategories/admin_add.ctp:3
+#: View/ProductCategories/admin_add.ctp:3
+msgid "Add new category"
+msgstr ""
+
+#: View/BlogCategories/admin_add.ctp:15
+#: View/Company/admin_index.ctp:27
+#: View/Elements/search_product.ctp:31
+#: View/Menus/admin_add.ctp:15
+#: View/Orders/admin_view.ctp:7
+#: View/Pages/admin_add.ctp:14
+#: View/Posts/admin_add.ctp:26
+#: View/ProductCategories/admin_add.ctp:16
+#: View/Products/admin_add.ctp:25
+#: View/Supports/admin_add.ctp:14
+#: View/Users/admin_add.ctp:21
+#: View/Users/admin_profile.ctp:22
+msgid "Name"
+msgstr ""
+
+#: View/BlogCategories/admin_add.ctp:21
+#: View/ProductCategories/admin_add.ctp:22
+msgid "auto generate when empty"
+msgstr ""
+
+#: View/BlogCategories/admin_add.ctp:29
+#: View/ProductCategories/admin_add.ctp:30
+msgid "Status of category"
+msgstr ""
+
+#: View/BlogCategories/admin_add.ctp:33
+#: View/ProductCategories/admin_add.ctp:50
+msgid "Category parent"
+msgstr ""
+
+#: View/BlogCategories/admin_add.ctp:38
+#: View/Pages/admin_add.ctp:65
+#: View/Posts/admin_add.ctp:61
+#: View/ProductCategories/admin_add.ctp:55
+#: View/Products/admin_add.ctp:128
+#: View/Settings/admin_index.ctp:22
+msgid "Description"
+msgstr ""
+
+#: View/BlogCategories/admin_add.ctp:43
+#: View/Pages/admin_add.ctp:72
+#: View/ProductCategories/admin_add.ctp:60
+#: View/Settings/admin_index.ctp:29
+msgid "Keyword"
+msgstr ""
+
+#: View/BlogCategories/admin_add.ctp:48
+#: View/Company/admin_index.ctp:72
+#: View/Menus/admin_add.ctp:38
+#: View/Pages/admin_add.ctp:58
+#: View/ProductCategories/admin_add.ctp:65
+msgid "Introduction"
+msgstr ""
+
+#: View/BlogCategories/admin_add.ctp:53
+#: View/Menus/admin_add.ctp:33
+#: View/Orders/admin_confirm.ctp:59
+#: View/Pages/admin_add.ctp:37
+#: View/Posts/admin_add.ctp:75
+#: View/ProductCategories/admin_add.ctp:70
+#: View/Products/admin_add.ctp:142
+msgid "Order"
+msgstr ""
+
+#: View/BlogCategories/admin_index.ctp:16
+#: View/Posts/admin_index.ctp:17
+#: View/ProductCategories/admin_index.ctp:24
+#: View/Products/admin_index.ctp:22
+msgid "Search by category: "
+msgstr ""
+
+#: View/Company/admin_index.ctp:3
+msgid "Company"
+msgstr ""
+
+#: View/Company/admin_index.ctp:15
+msgid "Logo"
+msgstr ""
+
+#: View/Company/admin_index.ctp:41
+#: View/Orders/admin_view.ctp:11
+#: View/Users/admin_add.ctp:28
+#: View/Users/admin_profile.ctp:29
+msgid "Email"
+msgstr ""
+
+#: View/Company/admin_index.ctp:45
+msgid "Cách nhau bằng dấu phẩy (,)"
+msgstr ""
+
+#: View/Company/admin_index.ctp:51
+msgid "Facebook"
+msgstr ""
+
+#: View/Company/admin_index.ctp:58
+msgid "Google+"
+msgstr ""
+
+#: View/Company/admin_index.ctp:65
+#: View/Orders/admin_view.ctp:19
+msgid "Address"
+msgstr ""
+
+#: View/Company/admin_index.ctp:79
+msgid "Google map"
+msgstr ""
+
+#: View/Contacts/admin_index.ctp:2
+msgid "Contact Manager"
+msgstr ""
+
+#: View/Elements/breadcrumb-checkout.ctp:3
+#: View/Frontend/checkout.ctp:45
+msgid "Thông tin giỏ hàng"
+msgstr ""
+
+#: View/Elements/breadcrumb-checkout.ctp:4
+msgid "Nhập thông tin đơn hàng"
+msgstr ""
+
+#: View/Elements/breadcrumb-checkout.ctp:5
+msgid "Chờ nhận hàng"
+msgstr ""
+
+#: View/Elements/cart.ctp:7
+msgid "Tổng: %s"
+msgstr ""
+
+#: View/Elements/cart.ctp:11
+msgid "Giỏ hàng"
+msgstr ""
+
+#: View/Elements/confirm_order.ctp:3
+#: View/Orders/admin_add.ctp:14
+#: View/Orders/admin_confirm.ctp:3
+msgid "Buy brand name"
+msgstr ""
+
+#: View/Elements/confirm_order.ctp:7
+#: View/Orders/admin_confirm.ctp:7
+msgid "Buy date  time"
+msgstr ""
+
+#: View/Elements/confirm_order.ctp:11
+#: View/Orders/admin_confirm.ctp:11
+msgid "Customer  name"
+msgstr ""
+
+#: View/Elements/confirm_order.ctp:15
+#: View/Orders/admin_confirm.ctp:15
+msgid "Customer  name (kana)"
+msgstr ""
+
+#: View/Elements/confirm_order.ctp:19
+#: View/Orders/admin_add.ctp:46
+#: View/Orders/admin_confirm.ctp:19
+msgid "Novelty want"
+msgstr ""
+
+#: View/Elements/confirm_order.ctp:23
+#: View/Orders/admin_add.ctp:51
+#: View/Orders/admin_confirm.ctp:23
+msgid "Nhận sản phẩm"
+msgstr ""
+
+#: View/Elements/confirm_order.ctp:27
+#: View/Orders/admin_confirm.ctp:27
+msgid "Thời gian dự kiến  đến shop"
+msgstr ""
+
+#: View/Elements/confirm_order.ctp:31
+#: View/Orders/admin_add.ctp:81
+#: View/Orders/admin_confirm.ctp:31
+msgid "Phone number"
+msgstr ""
+
+#: View/Elements/confirm_order.ctp:35
+#: View/Orders/admin_add.ctp:86
+#: View/Orders/admin_confirm.ctp:35
+msgid "Postcode"
+msgstr ""
+
+#: View/Elements/confirm_order.ctp:39
+#: View/Orders/admin_add.ctp:91
+#: View/Orders/admin_confirm.ctp:39
+msgid "Prefecture"
+msgstr ""
+
+#: View/Elements/confirm_order.ctp:43
+#: View/Orders/admin_add.ctp:102
+#: View/Orders/admin_confirm.ctp:43
+msgid "City"
+msgstr ""
+
+#: View/Elements/confirm_order.ctp:47
+#: View/Orders/admin_add.ctp:112
+#: View/Orders/admin_confirm.ctp:47
+msgid "Town / building"
+msgstr ""
+
+#: View/Elements/confirm_order.ctp:51
+#: View/Orders/admin_add.ctp:116
+#: View/Orders/admin_confirm.ctp:51
+msgid "Note"
+msgstr ""
+
+#: View/Elements/feature_product.ctp:36
+msgid "Xem tất cả"
+msgstr ""
+
+#: View/Elements/list_products.ctp:11
+msgid "Xem chi tiết"
+msgstr ""
+
+#: View/Elements/menu.ctp:15
+msgid "Trang chủ"
+msgstr ""
+
+#: View/Elements/search_order.ctp:12
+#: View/Orders/admin_add.ctp:36
+msgid "Customer name"
+msgstr ""
+
+#: View/Elements/search_order.ctp:16
+#: View/Orders/admin_add.ctp:41
+msgid "Customer name (kana)"
+msgstr ""
+
+#: View/Elements/search_order.ctp:20
+msgid "Status"
+msgstr ""
+
+#: View/Elements/search_product.ctp:19
+#: View/Users/admin_index.ctp:33
+msgid "Add a new"
+msgstr ""
+
+#: View/Elements/search_product.ctp:25
+msgid "Search products"
+msgstr ""
+
+#: View/Elements/search_product.ctp:35
+#: View/Products/admin_add.ctp:18
+msgid "Product category"
+msgstr ""
+
+#: View/Elements/search_product.ctp:38;48
+msgid "All"
+msgstr ""
+
+#: View/Elements/search_product.ctp:56
+msgid "Search"
+msgstr ""
+
+#: View/Elements/admin/paginator.ctp:8
+#: View/Images/admin_index.ctp:21
+msgid "Add new"
+msgstr ""
+
+#: View/Elements/admin/paginator.ctp:15
+msgid "Delete selected"
+msgstr ""
+
+#: View/Emails/html/forgot_password.ctp:2
+msgid "Hi %s,"
+msgstr ""
+
+#: View/Emails/html/forgot_password.ctp:4
+msgid "Please click here to change password: %s"
+msgstr ""
+
+#: View/Frontend/checkout.ctp:10
+msgid "Thông tin của bạn"
+msgstr ""
+
+#: View/Frontend/checkout.ctp:15
+msgid "Anh"
+msgstr ""
+
+#: View/Frontend/checkout.ctp:16
+msgid "Chị"
+msgstr ""
+
+#: View/Frontend/checkout.ctp:39
+msgid "Gửi cửa hàng"
+msgstr ""
+
+#: View/Frontend/checkout.ctp:46
+#: View/Frontend/shopping_cart.ctp:24
+msgid "Sản phẩm"
+msgstr ""
+
+#: View/Frontend/checkout.ctp:66
+msgid "<strong>Tổng thanh toán:</strong> %s"
+msgstr ""
+
+#: View/Frontend/checkout.ctp:74
+msgid "Thanh toán qua bảo kim"
+msgstr ""
+
+#: View/Frontend/page_view.ctp:59
+msgid "Thông tin liên hệ"
+msgstr ""
+
+#: View/Frontend/page_view.ctp:66
+msgid "Email của bạn"
+msgstr ""
+
+#: View/Frontend/page_view.ctp:71
+msgid "Nhập lại"
+msgstr ""
+
+#: View/Frontend/page_view.ctp:76
+msgid "Số điện thoại"
+msgstr ""
+
+#: View/Frontend/page_view.ctp:82
+msgid "Gửi liên hệ"
+msgstr ""
+
+#: View/Frontend/product_index.ctp:123
+msgid "Sản phẩm liên quan"
+msgstr ""
+
+#: View/Frontend/search.ctp:4
+msgid "Từ khoá: %s"
+msgstr ""
+
+#: View/Frontend/shopping_cart.ctp:9
+msgid "Bạn chưa có sản phẩm nào trong giỏ hàng! "
+msgstr ""
+
+#: View/Frontend/shopping_cart.ctp:10
+msgid "Mua hàng tại đây"
+msgstr ""
+
+#: View/Frontend/shopping_cart.ctp:25
+msgid "Số lượng"
+msgstr ""
+
+#: View/Frontend/shopping_cart.ctp:26
+msgid "Đơn giá"
+msgstr ""
+
+#: View/Frontend/shopping_cart.ctp:27
+msgid "Khuyến mại"
+msgstr ""
+
+#: View/Frontend/shopping_cart.ctp:28
+msgid "Tổng"
+msgstr ""
+
+#: View/Frontend/shopping_cart.ctp:50
+msgid "Mua thêm"
+msgstr ""
+
+#: View/Frontend/shopping_cart.ctp:51
+msgid "Thanh toán"
+msgstr ""
+
+#: View/Frontend/shopping_cart.ctp:53
+msgid "Xoá giỏ hàng"
+msgstr ""
+
+#: View/Frontend/successful.ctp:11
+msgid "Thông tin của bạn đã được gửi đi"
+msgstr ""
+
+#: View/Frontend/successful.ctp:12
+msgid "Chúng tôi sẽ liên hệ với bạn trong thời gian sớm nhất"
+msgstr ""
+
+#: View/Frontend/successful.ctp:13
+msgid "Quay lại mua thêm sản phẩm khác!"
+msgstr ""
+
+#: View/Images/admin_add.ctp:2
+#: View/Products/admin_add.ctp:2
+#: View/Products/admin_index.ctp:4
+msgid "Product"
+msgstr ""
+
+#: View/Images/admin_add.ctp:3
+msgid "Add new images"
+msgstr ""
+
+#: View/Images/admin_add.ctp:14
+msgid "Click to delete"
+msgstr ""
+
+#: View/Images/admin_add.ctp:19
+msgid "Click image to delete"
+msgstr ""
+
+#: View/Images/admin_index.ctp:10
+msgid "Search by product: "
+msgstr ""
+
+#: View/Layouts/Admin/panel.ctp:28
+msgid "Logout"
+msgstr ""
+
+#: View/Layouts/Admin/panel.ctp:28
+msgid "My account"
+msgstr ""
+
+#: View/Layouts/Admin/panel.ctp:52
+#: View/Users/admin_add.ctp:2
+#: View/Users/admin_change_password.ctp:2
+#: View/Users/admin_index.ctp:2
+#: View/Users/admin_profile.ctp:2
+msgid "User Management"
+msgstr ""
+
+#: View/Layouts/Admin/panel.ctp:60
+msgid "View website"
+msgstr ""
+
+#: View/Layouts/Admin/panel.ctp:72
+msgid "Shop"
+msgstr ""
+
+#: View/Layouts/Frontend/layout.ctp:84
+msgid "<span class=\"online\"></span> Đang online: %s <span class=\"totalVisit\"></span> Tổng truy cập %s"
+msgstr ""
+
+#: View/Layouts/Frontend/layout.ctp:99
+msgid "Hỗ trợ trực tuyến"
+msgstr ""
+
+#: View/Menus/admin_add.ctp:2
+#: View/Menus/admin_index.ctp:2
+msgid "Menu Manager"
+msgstr ""
+
+#: View/Menus/admin_add.ctp:3
+msgid "Add new menu"
+msgstr ""
+
+#: View/Menus/admin_add.ctp:20
+msgid "Parent"
+msgstr ""
+
+#: View/Menus/admin_add.ctp:29
+msgid "Status of menu"
+msgstr ""
+
+#: View/Menus/admin_add.ctp:43
+#: View/Pages/admin_index.ctp:16
+msgid "Type"
+msgstr ""
+
+#: View/Menus/admin_index.ctp:17
+msgid "Search by parent: "
+msgstr ""
+
+#: View/Orders/admin_add.ctp:18
+msgid "Buy date time"
+msgstr ""
+
+#: View/Orders/admin_add.ctp:63
+msgid "Thời gian dự kiến đến shop"
+msgstr ""
+
+#: View/Orders/admin_add.ctp:126
+msgid "Next"
+msgstr ""
+
+#: View/Orders/admin_index.ctp:2
+#: View/Orders/admin_view.ctp:2
+msgid "Orders"
+msgstr ""
+
+#: View/Orders/admin_view.ctp:3
+msgid "View order"
+msgstr ""
+
+#: View/Orders/admin_view.ctp:23
+msgid "Bank account"
+msgstr ""
+
+#: View/Orders/admin_view.ctp:27
+msgid "Cart"
+msgstr ""
+
+#: View/Orders/admin_view.ctp:38
+msgid "Total"
+msgstr ""
+
+#: View/Orders/admin_view.ctp:42
+msgid "Created"
+msgstr ""
+
+#: View/Pages/admin_add.ctp:2
+#: View/Pages/admin_index.ctp:2
+msgid "Page Manager"
+msgstr ""
+
+#: View/Pages/admin_add.ctp:3
+msgid "Add new page"
+msgstr ""
+
+#: View/Pages/admin_add.ctp:21
+msgid "Type of Page"
+msgstr ""
+
+#: View/Pages/admin_add.ctp:30
+msgid "Slug"
+msgstr ""
+
+#: View/Pages/admin_add.ctp:44
+msgid "Show in menu"
+msgstr ""
+
+#: View/Posts/admin_add.ctp:2
+#: View/Posts/admin_index.ctp:2
+msgid "Post"
+msgstr ""
+
+#: View/Posts/admin_add.ctp:3
+msgid "Add new post"
+msgstr ""
+
+#: View/Posts/admin_add.ctp:19
+msgid "Blog category"
+msgstr ""
+
+#: View/Posts/admin_add.ctp:54
+#: View/Products/admin_add.ctp:121
+msgid "Content"
+msgstr ""
+
+#: View/Posts/admin_add.ctp:68
+#: View/Products/admin_add.ctp:135
+msgid "Key word"
+msgstr ""
+
+#: View/ProductCategories/admin_add.ctp:2
+#: View/ProductCategories/admin_index.ctp:2
+msgid "Product categories"
+msgstr ""
+
+#: View/ProductCategories/admin_add.ctp:34
+msgid "Show in home page"
+msgstr ""
+
+#: View/ProductCategories/admin_add.ctp:38
+msgid "Checked to show in homepage"
+msgstr ""
+
+#: View/Products/admin_add.ctp:3
+msgid "Add new product"
+msgstr ""
+
+#: View/Products/admin_add.ctp:39
+msgid "Price"
+msgstr ""
+
+#: View/Products/admin_add.ctp:46
+msgid "Sale"
+msgstr ""
+
+#: View/Products/admin_add.ctp:54
+msgid "Size"
+msgstr ""
+
+#: View/Products/admin_add.ctp:77
+msgid "Color"
+msgstr ""
+
+#: View/Products/admin_add.ctp:100
+msgid "Quantity"
+msgstr ""
+
+#: View/Settings/admin_index.ctp:3
+msgid "Home"
+msgstr ""
+
+#: View/Settings/admin_index.ctp:15
+msgid "Title website"
+msgstr ""
+
+#: View/Settings/admin_index.ctp:36
+msgid "Google analytics"
+msgstr ""
+
+#: View/Settings/admin_index.ctp:43
+msgid "Ad"
+msgstr ""
+
+#: View/Supports/admin_add.ctp:2
+#: View/Supports/admin_index.ctp:2
+msgid "Support Manager"
+msgstr ""
+
+#: View/Supports/admin_add.ctp:3
+msgid "Add new support"
+msgstr ""
+
+#: View/Supports/admin_add.ctp:21
+msgid "Type of support"
+msgstr ""
+
+#: View/Supports/admin_add.ctp:30
+msgid "Nick name"
+msgstr ""
+
+#: View/Users/admin_add.ctp:3
+msgid "Add new user"
+msgstr ""
+
+#: View/Users/admin_add.ctp:14
+#: View/Users/admin_profile.ctp:13
+msgid "User name"
+msgstr ""
+
+#: View/Users/admin_add.ctp:38
+#: View/Users/admin_change_password.ctp:25
+msgid "Password"
+msgstr ""
+
+#: View/Users/admin_add.ctp:48
+msgid "Role"
+msgstr ""
+
+#: View/Users/admin_change_password.ctp:3
+#: View/Users/admin_profile.ctp:43
+msgid "Change password"
+msgstr ""
+
+#: View/Users/admin_change_password.ctp:17
+msgid "Old password"
+msgstr ""
+
+#: View/Users/admin_change_password.ctp:32
+msgid "Confirm password"
+msgstr ""
+
+#: View/Users/admin_profile.ctp:3
+msgid "Profile"
+msgstr ""
+
+#: View/Users/forgot_password.ctp:14
+msgid "Reload captcha"
+msgstr ""
+
+#: View/Users/forgot_password.ctp:17
+msgid "Send"
+msgstr ""
+
+#: View/Users/login.ctp:8
+msgid "Enter username and password to login."
+msgstr ""
+
+#: View/Users/login.ctp:11
+msgid "Login"
+msgstr ""
+
+#: Model/BlogCategory.php:validation for field slug
+#: Model/Page.php:validation for field slug
+#: Model/Post.php:validation for field slug
+#: Model/Product.php:validation for field slug
+#: Model/ProductCategory.php:validation for field slug
+msgid "Slug is used"
+msgstr ""
+
+#: Model/ForgotPassword.php:validation for field email
+msgid "Email is not empty!"
+msgstr ""
+
+#: Model/ForgotPassword.php:validation for field email
+#: Model/User.php:validation for field email
+msgid "Email is not valid"
+msgstr ""
+
+#: Model/ForgotPassword.php:validation for field captcha
+msgid "Captcha is not empty!"
+msgstr ""
+
+#: Model/ForgotPassword.php:validation for field captcha
+msgid "Captcha is not valid!"
+msgstr ""
+
+#: Model/User.php:validation for field username
+msgid "Username is not empty!"
+msgstr ""
+
+#: Model/User.php:validation for field username
+msgid "Username is used!"
+msgstr ""
+
+#: Model/User.php:validation for field username
+msgid "Username must be at least 3 characters long."
+msgstr ""
+
+#: Model/User.php:validation for field username
+msgid "Please do not enter special character"
+msgstr ""
+
+#: Model/User.php:validation for field name
+msgid "Name user is not empty"
+msgstr ""
+
+#: Model/User.php:validation for field role
+msgid "Please select role"
+msgstr ""
+
+#: Model/User.php:validation for field email
+msgid "Email is not empty"
+msgstr ""
+
+#: Model/User.php:validation for field email
+msgid "Email is used"
+msgstr ""
+
+#: Model/User.php:validation for field password
+msgid "Password is not empty"
+msgstr ""
+
+#: Model/User.php:validation for field password;validation for field new_password
+msgid "Password must be at least 6 characters long."
+msgstr ""
+
+#: Model/User.php:validation for field password;validation for field new_password
+msgid "Password must be no larger than 15 characters long."
+msgstr ""
+
+#: Model/User.php:validation for field new_password
+msgid "New Password is not empty"
+msgstr ""
+
+#: Model/User.php:validation for field old_password
+msgid "Current pasword not empty"
+msgstr ""
+
+#: Model/User.php:validation for field old_password
+msgid "Current Password does not match"
+msgstr ""
+
+#: Model/User.php:validation for field password_confirm
+msgid "password confirm not empty"
+msgstr ""
+
+#: Model/User.php:validation for field password_confirm
+msgid "Password & Confirm Password must be match."
+msgstr ""
+

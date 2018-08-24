@@ -1,0 +1,9 @@
+{
+    "config": {
+        "vendor-dir": "Vendor"
+    },
+    "require": {
+        "opauth/opauth": "0.*",
+        "mjohnson/uploader": "4.*"
+    }
+}

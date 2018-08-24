@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ete/!svn/ver/2/source/web/lib/Cake/Model/Datasource/Session
+END
+CakeSessionHandlerInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ete/!svn/ver/2/source/web/lib/Cake/Model/Datasource/Session/CakeSessionHandlerInterface.php
+END
+CacheSession.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ete/!svn/ver/2/source/web/lib/Cake/Model/Datasource/Session/CacheSession.php
+END
+DatabaseSession.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ete/!svn/ver/2/source/web/lib/Cake/Model/Datasource/Session/DatabaseSession.php
+END

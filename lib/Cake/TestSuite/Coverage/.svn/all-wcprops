@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ete/!svn/ver/2/source/web/lib/Cake/TestSuite/Coverage
+END
+HtmlCoverageReport.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ete/!svn/ver/2/source/web/lib/Cake/TestSuite/Coverage/HtmlCoverageReport.php
+END
+TextCoverageReport.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ete/!svn/ver/2/source/web/lib/Cake/TestSuite/Coverage/TextCoverageReport.php
+END
+BaseCoverageReport.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ete/!svn/ver/2/source/web/lib/Cake/TestSuite/Coverage/BaseCoverageReport.php
+END

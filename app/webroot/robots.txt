@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /js/
+Disallow: /css/
+Disallow: /?manufacture
+Disallow: /search?q
+Sitemap: http://mototech.com.vn/sitemap.xml

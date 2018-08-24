@@ -1,0 +1,71 @@
+.order-table tr th,
+.order-table tr td{
+    padding: 10px 0;
+    text-align: left;
+}
+.orderViewContent   h1{
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #000;
+    font-family: Tahoma;
+    font-size: 20px;
+}
+.orderViewContent .heading {
+    text-align: center;
+}
+.orderViewContent hr {
+    margin: 10px 0;
+}
+.orderViewContent .header  h1{
+    font-size: 18px;
+}
+.orderViewContent table tr th,
+.orderViewContent table tr td {
+    border-left: solid 1px #c2c2c2;
+    border-bottom: solid 1px #c2c2c2;
+    padding: 3px 10px;
+}
+.orderViewContent table {
+    border: solid 1px #c2c2c2;
+    width: 800px;
+    margin: 20px 0;
+    border-left: none;
+    border-bottom: none;
+}
+.orderViewContent .billing  strong{
+    float: left;
+    width: 85px;
+}
+.orderViewContent .sign h4 {
+    font-size: 14px;
+    padding-right: 50px;
+}
+.orderViewContent .sign {
+    text-align: right;
+    margin-top: 40px;
+}
+#content-table-inner {
+    position: relative;
+}
+.orderViewContent {
+    width: 800px;
+    margin: auto;
+    line-height: 20px;
+    color: #000 !important;
+    padding-bottom: 100px;
+    font-size: 12px;
+    font-family: 'Tahoma';
+    position: relative;
+}
+.printBox {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.printBox a {
+    margin: auto;
+    float: none;
+    padding: 5px 10px;
+    background: #008000;
+    color: #fff;
+}

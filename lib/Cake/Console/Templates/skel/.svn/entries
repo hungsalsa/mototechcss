@@ -1,0 +1,132 @@
+10
+
+dir
+5
+http://hiworld.com.vn/svn/ete/source/web/lib/Cake/Console/Templates/skel
+http://hiworld.com.vn/svn/ete
+
+
+
+2014-03-07T10:19:28.972011Z
+2
+haivd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6219e4cc-b9d6-4657-b211-f9133385e9c1
+
+Locale
+dir
+
+Test
+dir
+
+Model
+dir
+
+tmp
+dir
+
+webroot
+dir
+
+Console
+dir
+
+Controller
+dir
+
+Config
+dir
+
+Lib
+dir
+
+View
+dir
+
+.htaccess
+file
+
+
+
+
+2014-01-26T05:06:00.000000Z
+a2a9efe935decfd5f498bf0d83075574
+2014-03-07T10:19:28.972011Z
+2
+haivd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+140
+
+index.php
+file
+
+
+
+
+2014-01-26T05:06:00.000000Z
+de91beade885e04bcea74a4afcc0a91d
+2014-03-07T10:19:28.972011Z
+2
+haivd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+199
+
+Vendor
+dir
+
+Plugin
+dir
+
